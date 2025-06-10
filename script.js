@@ -1,3 +1,1 @@
-function sayHello() {
-  alert("Hello from GitHub Pages!");
-}
+console.log("Website loaded successfully!");
